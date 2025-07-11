@@ -82,7 +82,7 @@ This project shows how **modern Data Science + ML** can:
 ✅ **Actionable Deliverables**  
 - Power BI Dashboard: Monitoring, Drivers, Actions
 - Excel Pivot Sheets: 4 views for offline slicing
-- Weekly Risk Forecast CSV: Directly usable by District Health Officers
+- Weekly Risk Forecast CSV: Directly usable 
 
 ---
 
